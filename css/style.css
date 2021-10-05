@@ -270,6 +270,7 @@ body {
   background: url('../img/extra-third/bg.jpg') 50% / cover no-repeat;
   color: #fff;
   padding-bottom: 30px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .extra-third__container {
@@ -308,7 +309,7 @@ body {
 }
 
 .extra-third__img {
-  margin-top: -80px;
+  margin-top: -63px;
 }
 
 .extra-third__img img {
